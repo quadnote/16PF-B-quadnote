@@ -1,0 +1,2 @@
+ex07
+마지막 열에서 print end7 + end8 + end8 + end10 + end11 + end12 로 작성하여 end9를 탈락함
