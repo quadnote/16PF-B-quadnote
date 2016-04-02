@@ -1,5 +1,6 @@
 # http://learnpythonthehardway.org/book/ex9.html
-# Here's some new strange stuff, remember type it exactly.
+
+#  Here's some new strange stuff, remember type it exactly.
 
 days = "Mon Tue Wed Thu Fri Sat Sun"
 months = "Jan\nFeb\nMar\nApr\nMay\nJun\nJul\nAug"
