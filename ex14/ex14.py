@@ -1,4 +1,5 @@
 # http://learnpythonthehardway.org/book/ex14.html
+#-*-coding:cp949
 
 from sys import argv
 
