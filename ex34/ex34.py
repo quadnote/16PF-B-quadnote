@@ -1,11 +1,11 @@
-#-*-coding:cp949
+#-*-coding:utf8
 
-animals = ['°õ', 'È£¶ûÀÌ', 'Æë±Ï', '¾ó·è¸»']
+animals = ['ê³°', 'í˜¸ë‘ì´', 'í­ê·„', 'ì–¼ë£©ë§']
 bear = animals[0]
 tiger = animals[1]
 penguin = animals[2]
 zebra = animals[3]
-# ¸®½ºÆ®°¡ ½ÃÀÛÇÒ ¶§ 0ºÎÅÍ ½ÃÀÛÇÑ´Ù.
+# ë¦¬ìŠ¤íŠ¸ê°€ ì‹œì‘í•  ë•Œ 0ë¶€í„° ì‹œì‘í•œë‹¤.
 
 print "bear= %s" % bear
 print "tiger= %s" % tiger
