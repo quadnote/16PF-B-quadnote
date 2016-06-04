@@ -12,6 +12,8 @@ def test_room():
     assert_equal(gold.name, "GoldRoom")
     assert_equal(gold.paths, {})
 
+#ssert_equal(A,B) 는 A와 B가 같은지 검사하는 역할
+
 
 def test_room_paths():
     center = Room("Center", "Test room in the center.")
